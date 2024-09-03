@@ -16,7 +16,7 @@ function App() {
           <button
             type="button"
             onClick={() => {
-              store.enterAR();
+              store.enterVR();
               setIsVR(true);
             }}
           >
